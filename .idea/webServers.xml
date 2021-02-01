@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9969475-c822-43e1-bbb3-01221f462367" name="CMS" url="http://b2m3.local/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="5605ca98-3ee3-47f6-8f32-4a6d590f37ec" name="wamp" url="http://b2m3.local/CMS">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
